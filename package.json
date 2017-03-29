@@ -40,6 +40,6 @@
     "rm": "^0.1.8",
     "style-loader": "^0.16.1",
     "webpack": "^2.3.2",
-    "websocket-log-server": "^0.0.1"
+    "websocket-log-server": "^1.0.0"
   }
 }
